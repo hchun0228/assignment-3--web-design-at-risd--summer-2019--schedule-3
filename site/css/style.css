@@ -69,6 +69,7 @@ h3 {
 .item2 {
    grid-area: b;
    background-color: #cbc5b9;
+   font-size: 16px;
    text-align: inherit;
 }
 
@@ -79,7 +80,7 @@ h3 {
 
 .item4 {
    grid-area: d;
-   background-color: #CBC5B9;
+   background-color: #cbc5b9;
    font-size: 16px;
    text-align: inherit;
 }
@@ -185,7 +186,7 @@ h3 {
 }
 
 #mydiv a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -194,7 +195,7 @@ h3 {
 }
 
 #mydiv1 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -203,7 +204,7 @@ h3 {
 }
 
 #mydiv2 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -212,7 +213,7 @@ h3 {
 }
 
 #mydiv3 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -221,7 +222,7 @@ h3 {
 }
 
 #mydiv4 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -230,7 +231,7 @@ h3 {
 }
 
 #mydiv5 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -239,7 +240,7 @@ h3 {
 }
 
 #mydiv6 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -248,7 +249,7 @@ h3 {
 }
 
 #mydiv7 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -257,7 +258,7 @@ h3 {
 }
 
 #mydiv8 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
 
@@ -266,6 +267,6 @@ h3 {
 }
 
 #mydiv9 a {
-   font-size: 38px;
+   font-size: 40px;
    text-align: justify;
 }
